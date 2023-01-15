@@ -8,3 +8,8 @@ Options:
   -l, --listar        Imprime la tabla en consola     [boolean] [default: false]
       --li, --limite  Límite de la tabla de multiplicar   [number] [default: 10]
 ```
+
+Example
+```
+node app --help
+```
